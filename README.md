@@ -19,6 +19,21 @@ Atualmente, curso **Estatística**, direcionando meus estudos à análise de dad
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📁 Projetos
+
+- Projetos acadêmicos em **Python, Java, PHP e desenvolvimento Web**
+- Desenvolvimento de **sistemas com operações CRUD** e integração com banco de dados
+- Aplicações voltadas a **contextos educacionais e acadêmicos**
+- Projetos desenvolvidos durante o Ensino Técnico, graduação e disciplinas universitárias
+
+## 📊 Foco de Interesse
+
+- Ciência de Dados  
+- Estatística Aplicada  
+- Programação  
+- Desenvolvimento de Sistemas  
+- Análise e tratamento de dados  
+
 ## 📧 Informações de Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-ol%C3%ADvia-meca-de-siqueira/)
