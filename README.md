@@ -1,4 +1,4 @@
-## Bem vindo(a)!
+## Seja bem-vindo!
 
 Sou **Maria Olívia Meca de Siqueira**, estudante de **Estatística e Ciência de Dados na USP**.
 
