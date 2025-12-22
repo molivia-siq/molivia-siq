@@ -21,10 +21,29 @@ Atualmente, curso **Estatística**, direcionando meus estudos à análise de dad
 
 ## 📁 Projetos
 
-- Projetos acadêmicos em **Python, Java, PHP e desenvolvimento Web**
-- Desenvolvimento de **sistemas com operações CRUD** e integração com banco de dados
-- Aplicações voltadas a **contextos educacionais e acadêmicos**
-- Projetos desenvolvidos durante o Ensino Técnico, graduação e disciplinas universitárias
+🚀 Projetos
+
+- HTML & CSS
+│ Desenvolvimento web e estruturação de páginas em **HTML, CSS e Bootstrap**, com foco em layout responsivo e organização visual.
+
+- Python
+│ Lógica de programação em Python, desenvolvimento de sistemas e **análise de dados**.
+
+- R
+│ **Análise estatística e visualização de dados por meio de gráficos**, aplicados a diferentes contextos.
+
+- Java
+│ Desenvolvimento de aplicações utilizando **Programação Orientada a Objetos (POO)** e estruturação de projetos com **Spring Boot**.
+
+- JavaScript
+│ Criação de funcionalidades interativas para a web, com **manipulação de elementos da página** (DOM) e implementação da lógica front-end.
+
+- PHP
+│ Desenvolvimento web back-end, integração com **banco de dados** e operações CRUD.
+
+- MySQL
+│ Criação e manipulação de tabelas, consultas SQL e relacionamentos básicos entre dados.
+
 
 ## 📊 Foco de Interesse
 
