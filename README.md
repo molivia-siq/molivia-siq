@@ -43,7 +43,7 @@ Atualmente, curso **Estatística**, direcionando meus estudos à análise de dad
 ➜ Criação e manipulação de tabelas, consultas SQL e relacionamentos básicos entre dados.
 
 
-## 📊 Foco de Interesse
+## 📊 Foco de Interesse:
 
 - Ciência de Dados  
 - Estatística Aplicada  
@@ -53,8 +53,8 @@ Atualmente, curso **Estatística**, direcionando meus estudos à análise de dad
 
 ## 📧 Informações de Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-ol%C3%ADvia-meca-de-siqueira/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliviamecasiqueira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-ol%C3%ADvia-meca-de-siqueira/)
 
 ⭐ *Perfil focado em projetos acadêmicos, aprendizado contínuo e consolidação de fundamentos em programação e ciência de dados.*
 
