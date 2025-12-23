@@ -1,4 +1,23 @@
-## Seja bem-vindo!
+<div align="center">
+
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2e8b8b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f4f7a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <path d="M0,40 C300,120 900,0 1200,40 L1200,0 L0,0 Z" fill="url(#grad)" />
+  <path d="M0,40 C300,120 900,0 1200,40 L1200,180 L0,180 Z" fill="url(#grad)" opacity="0.95"/>
+
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        fill="white" font-size="42" font-family="Arial, Helvetica, sans-serif">
+    Seja bem-vindo!
+  </text>
+</svg>
+
+</div>
 
 Sou **Maria Olívia Meca de Siqueira**, estudante de **Estatística e Ciência de Dados na USP**.
 
