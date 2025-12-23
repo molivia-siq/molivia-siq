@@ -19,30 +19,28 @@ Atualmente, curso **Estatística**, direcionando meus estudos à análise de dad
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📁 Projetos
-
-🚀 Projetos
+## 📁 Projetos:
 
 - HTML & CSS
-│ Desenvolvimento web e estruturação de páginas em **HTML, CSS e Bootstrap**, com foco em layout responsivo e organização visual.
+➜ Desenvolvimento web e estruturação de páginas em **HTML, CSS e Bootstrap**, com foco em layout responsivo e organização visual.
 
 - Python
-│ Lógica de programação em Python, desenvolvimento de sistemas e **análise de dados**.
+➜ Lógica de programação em Python, desenvolvimento de sistemas e **análise de dados**.
 
 - R
-│ **Análise estatística e visualização de dados por meio de gráficos**, aplicados a diferentes contextos.
+➜ **Análise estatística e visualização de dados por meio de gráficos**, aplicados a diferentes contextos.
 
 - Java
-│ Desenvolvimento de aplicações utilizando **Programação Orientada a Objetos (POO)** e estruturação de projetos com **Spring Boot**.
+➜ Desenvolvimento de aplicações utilizando **Programação Orientada a Objetos (POO)** e estruturação de projetos com **Spring Boot**.
 
 - JavaScript
-│ Criação de funcionalidades interativas para a web, com **manipulação de elementos da página** (DOM) e implementação da lógica front-end.
+➜ Criação de funcionalidades interativas para a web, com **manipulação de elementos da página** (DOM) e implementação da lógica front-end.
 
 - PHP
-│ Desenvolvimento web back-end, integração com **banco de dados** e operações CRUD.
+➜ Desenvolvimento web back-end, integração com **banco de dados** e operações CRUD.
 
 - MySQL
-│ Criação e manipulação de tabelas, consultas SQL e relacionamentos básicos entre dados.
+➜ Criação e manipulação de tabelas, consultas SQL e relacionamentos básicos entre dados.
 
 
 ## 📊 Foco de Interesse
