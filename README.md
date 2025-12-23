@@ -56,6 +56,7 @@ Atualmente, curso **Estatística**, direcionando meus estudos à análise de dad
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliviamecasiqueira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-ol%C3%ADvia-meca-de-siqueira/)
 
-⭐ *Perfil focado em projetos acadêmicos, aprendizado contínuo e consolidação de fundamentos em programação e ciência de dados.*
+⭐ *Perfil focado em aprendizado contínuo e consolidação de fundamentos em programação e ciência de dados.*
+
 
 
