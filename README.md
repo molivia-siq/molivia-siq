@@ -5,10 +5,21 @@ Sou **Maria Olívia Meca de Siqueira**, estudante de **Estatística e Ciência d
 Iniciei minha formação na área de tecnologia no **Técnico em Informática para Internet Integrado ao Ensino Médio pelo Instituto Federal de São Paulo (IFSP)**, onde adquiri fundamentos em desenvolvimento web, programação e trabalho em equipe.  
 Atualmente, curso **Estatística**, direcionando meus estudos à análise de dados, programação e aplicações computacionais.
 
-## 💻 Conhecimentos Técnicos:
+## 💻 Conhecimentos Técnicos
+
+### 📊 Ciência de Dados e Análise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Desenvolvimento Web
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,7 +27,6 @@ Atualmente, curso **Estatística**, direcionando meus estudos à análise de dad
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📁 Projetos:
 
@@ -48,7 +58,9 @@ Atualmente, curso **Estatística**, direcionando meus estudos à análise de dad
 - Estatística Aplicada  
 - Programação  
 - Desenvolvimento de Sistemas  
-- Análise e tratamento de dados  
+- Análise e tratamento de dados
+- Machine Learning
+- Engenharia de Software  
 
 ## 📧 Informações de Contato:
 
